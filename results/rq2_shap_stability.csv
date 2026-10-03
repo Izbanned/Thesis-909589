@@ -1,0 +1,4 @@
+pair,jaccard_similarity
+seed_0_vs_seed_1,1.0
+seed_0_vs_seed_2,1.0
+seed_1_vs_seed_2,1.0
